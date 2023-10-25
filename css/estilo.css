@@ -1,0 +1,159 @@
+body{
+	margin: 5%;
+	background-color: OldLace;
+}
+header{
+	text-align: center;
+	font-size: 100px;
+	font-weight: bold;
+
+}
+h3{
+	margin: 0;
+	background: -webkit-linear-gradient(left, blue, green, orange,red, magenta,purple,blue);
+	-webkit-background-clip: text;  
+	-webkit-text-fill-color: transparent;  
+}
+footer{
+	text-align: right;
+	background:rgba(220,220,220,0.5);
+}
+table{
+	display: inline-block;
+	margin: 30px;
+
+	text-align: center;
+	font-family: verdana;
+	border-collapse: collapse;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	background-color: white;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius:10px;
+
+}
+
+th{
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+}
+td{
+	
+	height: 30px;
+	width: 35px;
+}
+
+.ultima{
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius:10px;
+}
+.dias{
+	background:white;
+}
+
+.domingo{
+
+	color: red;
+}
+.enero{
+	background:#0275CD;
+	color: white;
+}
+.dias_enero{
+	background:#2A87CF;
+	color: white;
+}
+.febrero{
+	background:#0095C8;
+	color: white;
+}
+.dias_febrero{
+	background:#00B1EF;
+	color: white;
+}
+.marzo{
+	background:#259955;
+	color: white;
+}
+.dias_marzo{
+	background:#21C665;
+	color: white;
+}
+.abril{
+	background:#77BF0B;
+	color: white;
+}
+.dias_abril{
+	background:#92E11D;
+	color: white;
+}
+
+.mayo{
+	background:#D2DB09;
+	color: white;
+}
+.dias_mayo{
+	background:#E9F21E;
+	color: white;
+}
+.junio{
+	background:#FFCB00;
+	color: white;
+}
+.dias_junio{
+	background:#FFE000;
+	color: white;
+}
+.julio{
+	background:#FF7000;
+	color: white;
+
+}
+.dias_julio{
+	background:#FF8C00;
+	color: white;
+}
+.agosto{
+	background:#F90000;
+	color: white;
+}
+
+.dias_agosto{
+	background:#FF3100;
+	color: white;
+}
+.septiembre{
+	background:#FC005C;
+	color: white;
+}
+
+.dias_septiembre{
+	background:#FF2180;
+	color: white;
+}
+.octubre{
+	background:#C61CA7;
+	color: white;
+}
+.dias_octubre{
+	background:#D335B6;
+	color: white;
+}
+.noviembre{
+	background:#9515C6;
+	color: white;
+}
+.dias_noviembre{
+	background:#AB3ED4;
+	color: white;
+}
+.diciembre{
+	background:#171EC2;
+	color: white;
+}
+.dias_diciembre{
+	background:#4E53D9;
+	color: white;
+}
+
+
